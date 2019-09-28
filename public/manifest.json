@@ -5,11 +5,11 @@
   "default_locale": "en",
   "manifest_version": 2,
   "chrome_url_overrides": {
-    "newtab": "./dist/newtab.html"
+    "newtab": "newtab.html"
   },
   "icons": {
-    "16": "./dist/icon16.png",
-    "48": "./dist/icon48.png",
-    "128": "./dist/icon128.png"
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
   }
 }
